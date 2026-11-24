@@ -17,9 +17,7 @@ I built this project for my **Data Structures** course in the BS Software Engine
 3. **Shop items:** the shop's items are shown as a **binary tree**.
 4. **Stationary Shop:** the menu is stored in a **linked list**, and the cart uses a **stack**.
 5. **Library:** borrow 4 books to continue. Borrowed books are kept in a **queue** with a fixed size of 4, so the first book borrowed is the first one returned (FIFO). The same book can't be borrowed twice.
-6. **Ice Cream Shop:** pick up to 3 flavours and choose quantities. The cart (an **ArrayList**) works out the total price.
-
-Both shops check your cart before checkout, so you can't check out with an empty cart.
+6. **Ice Cream Shop:** pick up to 3 flavours and choose quantities. The cart (an **ArrayList**) works out the total price.Both shops check your cart before checkout, so you can't check out with an empty cart.
 7. **Back home:** the app finds the shortest path from the Ice-Cream Shop back to the House.
 
 ## Data structures used
