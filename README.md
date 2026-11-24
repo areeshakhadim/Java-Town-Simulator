@@ -49,7 +49,7 @@ java -cp ../out Start
 
 Or open the project in NetBeans and run it.
 
-## Updates (2026)
+## Changelog
 
 I built this app in my 3rd semester. In 2026 I came back to it before publishing it here and made these improvements:
 
